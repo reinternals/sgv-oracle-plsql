@@ -18,3 +18,5 @@ Esse é uma atividade proposta pela faculdade FIAP no primeiro semestre em que o
 * script_popula_tabelas.sql - é um script contendo dados para realizar a população das tabelas.
 
 * trigger_valida_CPF.sql - é uma trigger for each row Que é acionada sempre que uma tentativa de insert ou update de cpf é realizada, a trigger chama a procedure de validação de cpf.
+
+* modelo_fisico.pdf - Modelagem fisica do banco de dados.
