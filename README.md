@@ -3,6 +3,11 @@
 
 Esse é uma atividade proposta pela faculdade FIAP no primeiro semestre em que o objetivo era criar e popular um Banco de dados Oracle para gerenciamento de uma empresa de vendas, desde a modelagem do schema até a implementação de triggers e stored procedures para realizar a validação do CPF dos clientes.
 
+## SCHEMA
+<div align="center">
+<img src="https://user-images.githubusercontent.com/55064565/185525538-7b416b35-8ebb-4977-a0ff-5348ea5ba3a9.png" width="700px" />
+</div>
+
 ## Conteúdo
 
 * apaga.sql - vai realizar drop de todas as tabelas e sequences.
